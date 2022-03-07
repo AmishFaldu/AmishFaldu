@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmishFaldu
-- 👀 I’m interested in Machine Learning, Deep Learning
-- 🌱 I’m currently learning how to build chatbots
-- 📫 How to reach me Email - abrkmdf@gmail.com
+- 👀 I’m interested in Backend systemd
+- 🌱 I’m currently learning Docker containerization and Kubernetes
+- 📫 How to reach me Email - amish.faldu@gmail.com
 
 <!---
 AmishFaldu/AmishFaldu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
