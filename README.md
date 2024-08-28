@@ -1,23 +1,20 @@
 # Hi 👋
 
-I am a results-driven software and devops engineer, with 2+ years of experience, specializing in node.js and DevOps practices.
+# About Me
 
-Book a call here: https://calendly.com/amish-faldu/30min, to explore how can I help your organization to build and deliver stellar software solutions.
+* Passionate about building and deploying ML models, I am a results-driven ML engineer with 3 years of industry experience in Software Engineering, building LLM RAG architecture models.
+* With expertise in Python, PyTorch, Machine Learning / Deep Learning, PySpark, AWS, SQL/No-SQL databases, and Docker, I strive to create efficient and optimized ML applications.
+* I have experience working as AI Research Assistant, where I have trained and upgraded existing ML models like RNN, GRU, LSTM, etc.
+* Explored eXplained AI (XAI for short) using frameworks like LIME and SHAP to understand why ML/AI models made a specific prediction.
 
-With expertise in Node.js, Nest.js, TypeScript, AWS cloud services, Git, SQL/No-SQL databases, and Docker, I strive to create efficient and optimized software solutions. I have experience working with Linux based systems and have proficiency in Python and Bash for scripting tasks and automation. Additionally, I have experience working with Kubernetes for container orchestration.
+# Work
 
-As a certified Terraform practitioner, I bring a deep understanding of infrastructure-as-code principles and skills for automating cloud resource management. I am well-versed in continuous integration and continuous delivery (CI/CD) practices, ensuring seamless and efficient deployment processes.
-
-In my current role as a backend engineer, I have consistently delivered secure, scalable, and high-performing applications by leveraging different software/solution architectures and employing industry best practices. My passion for streamlining development processes through automation has enabled me to drive efficiencies. I actively collaborate with team members to foster a culture of collaboration and deliver innovative high-value work.
-
-# Projects
-
-The projects I am working on or have completed can be found at: https://www.linkedin.com/in/amish-faldu/
+Projects and other stuff that I am working on / have completed can be found at: https://www.linkedin.com/in/amish-faldu/
 
 # WANT TO EXPLORE MORE?
-  - Book a call here: https://calendly.com/amish-faldu/30min
-  - Connect with me at: https://www.linkedin.com/in/amish-faldu/
-  - Send an email: amish.faldu@gmail.com
+- Book a call here: https://calendly.com/amish-faldu/30min
+- DM me on LinkedIn: https://www.linkedin.com/in/amish-faldu/
+- Send an email: amish.faldu@gmail.com
 
 <!---
 AmishFaldu/AmishFaldu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
